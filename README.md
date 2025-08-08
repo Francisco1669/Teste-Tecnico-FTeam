@@ -4,7 +4,7 @@ Aplicativo que lista personagens do **Rick & Morty** com scroll infinito, tela d
 
 O desafio era simples: consumir a [Rick and Morty API](https://rickandmortyapi.com/) e exibir as informações solicitadas.  
 Objetivo cumprido.  
-Mas, em vez de seguir pelo caminho mais curto, aproveitei para testar uma stack e uma organização mais robusta, parecida com o que costumo usar em projetos de produção. O resultado acabou sendo um bom laboratório de arquitetura.
+Mas, em vez de seguir pelo caminho mais curto, aproveitei para estuo o projeto trazendo uma complexidade em cima dele. 
 
 ---
 
@@ -18,7 +18,7 @@ Poderia ter sido resolvido de forma bem mais enxuta, mas decidi incluir:
 - Paginação, pull-to-refresh e tema Material 3
 - Configuração de lints no padrão `very_good_analysis`
 
-Foi over-engineering? Sim, mas proposital — queria experimentar padrões e boas práticas em um contexto pequeno.
+Foi over-engineering? DEMAIS, mas proposital — queria experimentar padrões e boas práticas em um contexto pequeno.
 
 ---
 
